@@ -41,7 +41,7 @@ avec la photo de concert assombrie.
 Repo GitHub public `Kobra121/christina-koti`, servi par GitHub Pages depuis `main` (racine) :
 **https://kobra121.github.io/christina-koti/**. Chaque push sur `main` redéploie en ~1 min.
 Aperçu partagé (sans lecteur vidéo intégré) publié aussi en Artifact Claude.
-Pour un domaine perso : ajouter un fichier `CNAME` + DNS, ou brancher le repo sur Netlify.
+Domaine : **christinamariacoti.com** (Namecheap, fichier `CNAME` à la racine, DNS A → GitHub Pages + CNAME www).
 
 ## Aperçu local
 
