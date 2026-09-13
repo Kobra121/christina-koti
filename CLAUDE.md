@@ -36,6 +36,13 @@ Thème sombre : fond `#0b0b0d`, encre ivoire `#ece7dd`, accent doré `#c9a96e` (
 Titres serif Cormorant Garamond, corps Inter 300. Reveal au scroll, hero plein écran
 avec la photo de concert assombrie.
 
+## Hébergement
+
+Repo GitHub public `Kobra121/christina-koti`, servi par GitHub Pages depuis `main` (racine) :
+**https://kobra121.github.io/christina-koti/**. Chaque push sur `main` redéploie en ~1 min.
+Aperçu partagé (sans lecteur vidéo intégré) publié aussi en Artifact Claude.
+Pour un domaine perso : ajouter un fichier `CNAME` + DNS, ou brancher le repo sur Netlify.
+
 ## Aperçu local
 
 Depuis le repo Sonata : configuration `christina-koti` du launch.json (python http.server, port 8765).
