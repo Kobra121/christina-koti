@@ -26,7 +26,7 @@ le bloc duo.
 
 ## À compléter
 
-- Adresse e-mail réelle (placeholder `contact@christinakoti.com` dans #contact).
+- Contact : christinamariakoti@gmail.com et chaîne YouTube @ChristinaMariaKoti (repris de son ancien site christinamariakoti.com, WordPress, période londonienne).
 - Prochaines dates dans #agenda (les deux entrées actuelles sont passées).
 - Vidéos piano solo (remplacer le placeholder), version EN, réseaux sociaux, plus de photos.
 
