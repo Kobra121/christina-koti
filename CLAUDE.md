@@ -9,15 +9,26 @@ Inter). Vidéos YouTube en « lite embed » (iframe youtube-nocookie chargée au
 
 - Bio : https://www.maison-heinrich-heine.org/intervenant/christina-koti/ (texte FR
   repris presque tel quel dans #biographie et les cartes « Prix & sélections »).
-- Photo : `img/concert.jpg` (1600×1066, concert J.M. Vogl-Stichting, NL) ; `img/portrait.jpg`
-  est un recadrage de la même photo. Une seule photo disponible pour l'instant.
+- Photos :
+  - `img/hero.jpg` — portrait N&B (source `IMG-20230829-WA0000.jpg`, 1024×683 compressé
+    WhatsApp, agrandi ×2 en Lanczos + légère accentuation via Pillow ; à remplacer par un
+    original haute définition ou une version upscalée par IA si disponible).
+  - `img/concert.jpg` (1600×1066, concert J.M. Vogl-Stichting, NL) ; `img/portrait.jpg` et
+    `img/concert-wide.jpg` sont des recadrages de la même photo (bio et bandeau plein écran).
 - Vidéos : chaîne YouTube de Jared Michaud (ids 4SEMbp23WGM, uTiZpJYGtWU, ATH_xhk1mL8, 60OztQLdFho).
+
+## Orientation éditoriale
+
+Christina d'abord comme **pianiste** (récital, musique de chambre), le duo voix-piano avec
+Jared Andrew Michaud est une facette parmi d'autres. La section Vidéos a un bloc « Piano
+solo » (placeholder « en préparation ») à remplir dès que les vidéos solo arrivent, puis
+le bloc duo.
 
 ## À compléter
 
 - Adresse e-mail réelle (placeholder `contact@christinakoti.com` dans #contact).
 - Prochaines dates dans #agenda (les deux entrées actuelles sont passées).
-- Éventuelle version EN, réseaux sociaux, plus de photos.
+- Vidéos piano solo (remplacer le placeholder), version EN, réseaux sociaux, plus de photos.
 
 ## Design
 
