@@ -20,15 +20,15 @@ Inter). Vidéos YouTube en « lite embed » (iframe youtube-nocookie chargée au
 ## Orientation éditoriale
 
 Christina d'abord comme **pianiste** (récital, musique de chambre), le duo voix-piano avec
-Jared Andrew Michaud est une facette parmi d'autres. La section Vidéos a un bloc « Piano
-solo » (placeholder « en préparation ») à remplir dès que les vidéos solo arrivent, puis
-le bloc duo.
+Jared Andrew Michaud est une facette parmi d'autres. La section Vidéos ouvre sur un bloc « Piano
+solo » (Mompou h1INrrYjYsg, Poulenc 4hUnn06Rluk — chaîne @ChristinaMariaKoti, id
+UCM_k_xT2NbA-mvHaWPi01qQ), puis le bloc duo (chaîne de Jared Michaud).
 
 ## À compléter
 
 - Contact : christinamariakoti@gmail.com et chaîne YouTube @ChristinaMariaKoti (repris de son ancien site christinamariakoti.com, WordPress, période londonienne).
 - Prochaines dates dans #agenda (les deux entrées actuelles sont passées).
-- Vidéos piano solo (remplacer le placeholder), version EN, réseaux sociaux, plus de photos.
+- Nouvelles vidéos solo annoncées, version EN, réseaux sociaux, plus de photos.
 
 ## Design
 
