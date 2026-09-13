@@ -43,6 +43,19 @@ Repo GitHub public `Kobra121/christina-koti`, servi par GitHub Pages depuis `mai
 Aperçu partagé (sans lecteur vidéo intégré) publié aussi en Artifact Claude.
 Domaine : **christinamariakoti.com** (registrar WordPress.com/Automattic, compte de Christina, expire 01/2027 ; fichier `CNAME` à la racine, DNS A → GitHub Pages + CNAME www). christinamariacoti.com = achat par erreur chez Namecheap, remboursement demandé.
 
+## SEO (posé le 13/09/2026)
+
+- Title « Christina Maria Koti — Pianiste à Paris », canonical https://christinamariakoti.com/,
+  Open Graph + Twitter card avec `img/og-image.jpg` (1200×630, générée par Pillow depuis
+  `img/hero.jpg` + Georgia ; régénérer si le portrait change).
+- JSON-LD : Person (pianiste, alumni, prix, sameAs YouTube + Maison Heinrich Heine) + WebSite
+  + 2 VideoObject (piano solo). Garder synchronisé avec la bio et les vidéos.
+- `robots.txt`, `sitemap.xml` (mettre à jour lastmod à chaque changement notable),
+  `404.html` (redirige vers l'accueil : les anciennes URL WordPress /about/ etc. y tombent).
+- Favicons `img/favicon-32.png`, `img/icon-192.png`, `img/apple-touch-icon.png` (K doré).
+- Google Search Console : à vérifier par Christina (propriété de domaine via TXT DNS chez
+  WordPress.com, ou balise meta à ajouter dans le head), puis soumettre le sitemap.
+
 ## Aperçu local
 
 Depuis le repo Sonata : configuration `christina-koti` du launch.json (python http.server, port 8765).
