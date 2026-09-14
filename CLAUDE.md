@@ -1,8 +1,12 @@
 # Christina Maria Koti — site vitrine
 
 Site d'une pianiste grecque installée à Paris (duo voix-piano avec le baryton
-Jared Andrew Michaud). Un seul fichier `index.html` auto-suffisant (CSS/JS inline),
-pas de framework, pas de build. Ressource externe : Google Fonts (Cormorant Garamond,
+Jared Andrew Michaud). Fichiers auto-suffisants (CSS/JS inline), pas de framework,
+pas de build : `index.html` (français, racine) et `en/index.html` (anglais, `/en/`).
+**Les deux pages ont exactement la même structure** : toute modification de contenu ou
+de style doit être reportée dans les deux (le script de génération initial vivait dans le
+scratchpad ; à la main désormais). Chemins d'images en absolu (`/img/...`). Bascule FR/EN
+dans la nav (lien `.lang`), hreflang fr/en/x-default dans le head et le sitemap. Ressource externe : Google Fonts (Cormorant Garamond,
 Inter). Vidéos YouTube en « lite embed » (iframe youtube-nocookie chargée au clic).
 
 ## Sources
@@ -28,7 +32,7 @@ UCM_k_xT2NbA-mvHaWPi01qQ), puis le bloc duo (chaîne de Jared Michaud).
 
 - Contact : christinamariakoti@gmail.com et chaîne YouTube @ChristinaMariaKoti (repris de son ancien site christinamariakoti.com, WordPress, période londonienne).
 - Prochaines dates dans #agenda (les deux entrées actuelles sont passées).
-- Nouvelles vidéos solo annoncées, version EN, réseaux sociaux, plus de photos.
+- Nouvelles vidéos solo annoncées, réseaux sociaux, plus de photos.
 
 ## Design
 
